@@ -1,2 +1,2 @@
 # JSRebuild
-Rebuild some achieve with native Javascript.
+Rebuild some framework's API with native Javascript.
